@@ -13,3 +13,4 @@ Just send a pull request or open an [issue](https://github.com/jkup/sf-javascrip
 + [Waffle.js](http://wafflejs.com/)
 + [Nodeschool SF](http://nodeschool.io/sanfrancisco/)
 + [Nodebots SF](http://www.meetup.com/nodebotssf/)
++ [SF Node](http://www.meetup.com/sfnode/)
