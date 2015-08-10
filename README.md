@@ -2,7 +2,7 @@
 
 This is a list of awesome JavaScript events going on in the bay area.
 
-## Add an event!
+## Add a Meetup!
 Just send a pull request or open an [issue](https://github.com/jkup/sf-javascript-meetups/issues) with your link(s)!
 
 + [Beer.js](http://www.meetup.com/beerjs/)
@@ -14,3 +14,4 @@ Just send a pull request or open an [issue](https://github.com/jkup/sf-javascrip
 + [Nodeschool SF](http://nodeschool.io/sanfrancisco/)
 + [Nodebots SF](http://www.meetup.com/nodebotssf/)
 + [SF Node](http://www.meetup.com/sfnode/)
++ [JS Fest](http://jsfest.com/)
