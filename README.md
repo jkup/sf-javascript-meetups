@@ -16,6 +16,7 @@ Meetup                 | Frequency | Description
 [Nodeschool SF][seven] |  Monthly  | Node workshops and mentorship.
 [Nodebots SF][eight]   |  Monthly  | Using Node to play with robots.
 [SF Node][nine]        |  Monthly  | Node based lighting talk.
+[karaokejs]            |  Sporadic | Sing your heart out with JS enthusiasts.
 [JS Fest][ten]         |  Yearly   | Annual JavaScript conference.
 
 [one]: http://www.meetup.com/beerjs/
@@ -28,3 +29,4 @@ Meetup                 | Frequency | Description
 [eight]: http://www.meetup.com/nodebotssf/
 [nine]: http://www.meetup.com/sfnode/
 [ten]: http://jsfest.com/
+[karaokejs]: http://karaokejs.club
