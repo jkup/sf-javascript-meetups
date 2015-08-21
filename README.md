@@ -29,5 +29,6 @@ Meetup                 | Frequency | Description
 [seven]: http://nodeschool.io/sanfrancisco/
 [eight]: http://www.meetup.com/nodebotssf/
 [nine]: http://www.meetup.com/sfnode/
+[ten]: http://jsfest.com/
 [oak]: http://nodeschool.io/oakland/
 [karaokejs]: http://karaokejs.club
