@@ -14,6 +14,7 @@ Meetup                 | Frequency | Description
 [SushiJS][five]        |  Monthly  | Sushi and JS talk.
 [Waffle.js][six]       |  Monthly  | Waffles and lightning talks.
 [Nodeschool SF][seven] |  Monthly  | Node workshops and mentorship.
+[Nodeschool Oakland][oak] | Monthly | Node workshops and mentorship.
 [Nodebots SF][eight]   |  Monthly  | Using Node to play with robots.
 [SF Node][nine]        |  Monthly  | Node based lighting talk.
 [karaokejs]            |  Sporadic | Sing your heart out with JS enthusiasts.
@@ -29,4 +30,5 @@ Meetup                 | Frequency | Description
 [eight]: http://www.meetup.com/nodebotssf/
 [nine]: http://www.meetup.com/sfnode/
 [ten]: http://jsfest.com/
+[oak]: http://nodeschool.io/oakland/
 [karaokejs]: http://karaokejs.club
