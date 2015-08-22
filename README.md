@@ -5,30 +5,30 @@ This is a list of awesome JavaScript events going on in the bay area.
 ## Add a Meetup!
 Just send a pull request or open an [issue](https://github.com/jkup/sf-javascript-meetups/issues) with your link(s)!
 
-Meetup                 | Frequency | Description
----------------------- | --------- | ------------
-[Beer.js][one]         |  Weekly   | Casual drinking Meetup in SF.
-[DimSumJS][two]        |  Monthly  | Dim sum and JS talk.
-[Oakland.js][three]    |  Weekly   | Casual drinking Meetup in Oakland.
-[SFHTML5][four]        |  Bi-Weekly| Conference style Meetup with tech talks.
-[SushiJS][five]        |  Monthly  | Sushi and JS talk.
-[Waffle.js][six]       |  Monthly  | Waffles and lightning talks.
-[Nodeschool SF][seven] |  Monthly  | Node workshops and mentorship.
-[Nodeschool Oakland][oak] | Monthly | Node workshops and mentorship.
-[Nodebots SF][eight]   |  Monthly  | Using Node to play with robots.
-[SF Node][nine]        |  Monthly  | Node based lighting talk.
-[karaokejs]            |  Sporadic | Sing your heart out with JS enthusiasts.
-[JS Fest][ten]         |  Yearly   | Annual JavaScript conference.
+Meetup              | Frequency | Description
+------------------- | --------- | ------------
+[BeerJS]            |  Weekly   | Casual drinking Meetup in SF.
+[DimSumJS]          |  Monthly  | Dim sum and JS talk.
+[OaklandJS]         |  Weekly   | Casual drinking Meetup in Oakland.
+[SFHTML5]           |  Bi-Weekly| Conference style Meetup with tech talks.
+[SushiJS]           |  Monthly  | Sushi and JS talk.
+[WaffleJS]          |  Monthly  | Waffles and lightning talks.
+[NodeschoolSF]      |  Monthly  | Node workshops and mentorship.
+[NodeschoolOakland] | Monthly | Node workshops and mentorship.
+[NodebotsSF]        |  Monthly  | Using Node to play with robots.
+[SFNode]            |  Monthly  | Node based lighting talk.
+[karaokejs]         |  Sporadic | Sing your heart out with JS enthusiasts.
+[JSFest]            |  Yearly   | Annual JavaScript conference.
 
-[one]: http://www.meetup.com/beerjs/
-[two]: https://dimsumjs.github.io/
-[three]: http://oaklandjs.com/
-[four]: http://www.meetup.com/sfhtml5/
-[five]: http://www.meetup.com/sushijs-sf/
-[six]: http://wafflejs.com/
-[seven]: http://nodeschool.io/sanfrancisco/
-[eight]: http://www.meetup.com/nodebotssf/
-[nine]: http://www.meetup.com/sfnode/
-[ten]: http://jsfest.com/
-[oak]: http://nodeschool.io/oakland/
+[BeerJS]: http://www.meetup.com/beerjs/
+[DimSumJS]: https://dimsumjs.github.io/
+[OaklandJS]: http://oaklandjs.com/
+[SFHTML5]: http://www.meetup.com/sfhtml5/
+[SushiJS]: http://www.meetup.com/sushijs-sf/
+[WaffleJS]: http://wafflejs.com/
+[NodeschoolSF]: http://nodeschool.io/sanfrancisco/
+[NodeschoolOakland]: http://nodeschool.io/oakland/
+[NodebotsSF]: http://www.meetup.com/nodebotssf/
+[SFNode]: http://www.meetup.com/sfnode/
 [karaokejs]: http://karaokejs.club
+[JSFest]: http://jsfest.com/
