@@ -35,3 +35,4 @@ Meetup              | Frequency | Description
 [karaokejs]: http://karaokejs.club
 [JSFest]: http://jsfest.com/
 [DogpatchJS]: http://dogpatchjs.com/
+[ChocolateJS]: http://chocolatejs.com/
