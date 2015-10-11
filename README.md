@@ -14,11 +14,13 @@ Meetup              | Frequency | Description
 [SushiJS]           |  Monthly  | Sushi and JS talk.
 [WaffleJS]          |  Monthly  | Waffles and lightning talks.
 [NodeschoolSF]      |  Monthly  | Node workshops and mentorship.
-[NodeschoolOakland] | Monthly | Node workshops and mentorship.
+[NodeschoolOakland] |  Monthly  | Node workshops and mentorship.
 [NodebotsSF]        |  Monthly  | Using Node to play with robots.
 [SFNode]            |  Monthly  | Node based lighting talk.
 [karaokejs]         |  Sporadic | Sing your heart out with JS enthusiasts.
 [JSFest]            |  Yearly   | Annual JavaScript conference.
+[DogpatchJS]        |  Weekly   | A free and public hangout for JavaScript enthusiasts.
+[ChocolateJS]       |  Sporadic | A place to celebrate the usually uninvited faces in tech.
 
 [BeerJS]: http://www.meetup.com/beerjs/
 [DimSumJS]: https://dimsumjs.github.io/
@@ -32,3 +34,4 @@ Meetup              | Frequency | Description
 [SFNode]: http://www.meetup.com/sfnode/
 [karaokejs]: http://karaokejs.club
 [JSFest]: http://jsfest.com/
+[DogpatchJS]: http://dogpatchjs.com/
